@@ -5,7 +5,7 @@ This Project uses <a href="https://python.langchain.com/docs/integrations/chat/g
 
 ### To Do
 Give more few shot samples  
-Fix SQLDatabaseChain Output Formatting
+Fix `SQLDatabaseChain` Output Formatting
 
 ### Output
 
